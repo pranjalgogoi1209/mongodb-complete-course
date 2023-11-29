@@ -1,0 +1,60 @@
+# WHAT IS MONGODB =>
+
+    * MongoDB is an open-source, document(json document) oriented NoSQL database management system.
+    * Designed for flexibility, scalability, and performance in handling unstructured or semi-structured data.
+
+
+# MORE WHAT MONGODB =>
+
+    * It was created by a company called 10gen, which is now known as MongoDB, Inc. The company was founded by Eliot Horowitz and Dwight Merriman in 2007. The first version of MongoDB was released in 2009.
+    * Mongo comes from Humongous word.
+
+
+# DIFFERENCE BETWEEN SQL AND MONGODB =>
+
+    * SQL :
+        i. SQL databases are relational databases.
+        ii. They use structured tables to store data in rows and columns.
+        iii. Suitable for applications with well-defined schemas and fixed data structures.
+        iv. E-commerce Platform, HR Management etc.
+        v. Eg: MySQL, PostgreSQL, Oracle.
+    * MONGODB(NOSQL) : 
+        i. NoSQL databases are non-relational databases.
+        ii. They provide flexibility in data storage, allowing varied data types and structures.
+        iii. Ideal for applications with dynamic or evolving data models.
+        iv. CMS, Social Media Platforms, Gaming etc.
+        v. Eg: MongoDB, Cassandra, Reddis.
+
+
+# KEY FEATURES OF MONGODB
+
+    * Flexible Schema Design : 
+        i. MongoDB allows dynamic, schema-less data structures.
+        ii. Easily accommodate changing data requirements.
+    * scalability and Performance :
+        i. Horizontal scaling supports large datasets and high traffic.
+        ii. Optimized read and write operations for fast performance.
+    * Document-Oriented Storage :
+        i. Data is stored in flexible, JSON-like BSON documents.
+        ii. Self-contained units with rich data types and nested arrays.
+    * Dynamic Queries :
+        i. Rich query language with language with support for complex queries.
+        ii. Utilize indexes to speed up query execution.
+    * Aggregation Framework :
+        i. Perform advanced data transformations and analysis.
+        ii. Process data using multiple pipeline stages.
+    * Open Source and Community :
+        i. MongoDB is open-source with a vibrant community.
+        ii. Regular updates, improvements, and support.
+
+
+# JSON VS BSON =>
+
+    * In MongoDB, we write in JSON format only but behind the scene data is stored in BSON (Binary JSON) format, a binary representation of JSON.
+    * By utilizing BSON, MongoDB can achieve higher read and write speeds, reduced storage requirements, and improved data manipulation capabilities, making it well-suited for handing large and complex datasets white maintaining performance efficiency.
+
+# MUST DOWNLOAD =>
+
+    * MongoDB MSI
+    * MongoDB Shell : Mongosh MSI
+    * MongoDB Command line database tool MSI
